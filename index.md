@@ -13,6 +13,8 @@ title: PlebMachine Core
 ---
 {% include dashboard.html %}
 
+<!-- PLEBVOX:START -->
+
 Musician • Audio Producer • FL Studio Enthusiast • Creative Collaborator
 
 Welcome to the official archive and creative node of Julian Boyd De Villiers, also known as **Juelz** and **DJ Boy Mist**.
@@ -116,3 +118,5 @@ Music, sound, Linux systems, AI experimentation, and digital creativity remain i
 
 ### 🎧 DJ Boy Mist
 Audio • Atmosphere • Experimentation • Digital Creativity
+
+<!-- PLEBVOX:END -->
